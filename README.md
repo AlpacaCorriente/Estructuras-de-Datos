@@ -1,2 +1,2 @@
 
-Laboratorios y proyectos de la asignatura estructura de datos que rendí el año 2018
+Laboratorios y proyectos de la asignatura estructura de datos año 2018
